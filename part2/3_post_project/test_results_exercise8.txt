@@ -1,0 +1,19 @@
+test_get_valid_grade_invalid_then_valid (test_exercise8.TestExercise8)
+Test get_valid_grade with invalid inputs then valid. ... ok
+test_get_valid_grade_valid (test_exercise8.TestExercise8)
+Test get_valid_grade with valid input. ... ok
+test_main_add_new_student (test_exercise8.TestExercise8)
+Test main function adding a new student. ... ok
+test_main_delete_entry (test_exercise8.TestExercise8)
+Test main function deleting an entry. ... ok
+test_main_update_grade (test_exercise8.TestExercise8)
+Test main function updating a grade. ... ok
+test_print_grades_empty (test_exercise8.TestExercise8)
+Test print_grades with empty dictionary. ... ok
+test_print_grades_non_empty (test_exercise8.TestExercise8)
+Test print_grades with non-empty dictionary. ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

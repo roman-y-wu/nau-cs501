@@ -1,0 +1,19 @@
+test_main_valid_input (test_exercise6.TestExercise6)
+Test main function with valid input. ... ok
+test_pythagoreanTheorem_3_4_5 (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with classic 3-4-5 triangle. ... ok
+test_pythagoreanTheorem_5_12_13 (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with 5-12-13 triangle. ... ok
+test_pythagoreanTheorem_7_24_25 (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with 7-24-25 triangle. ... ok
+test_pythagoreanTheorem_floats (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with float inputs. ... ok
+test_pythagoreanTheorem_same_lengths (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with equal leg lengths. ... ok
+test_pythagoreanTheorem_zero (test_exercise6.TestExercise6)
+Test pythagoreanTheorem with zero. ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

@@ -1,0 +1,52 @@
+=== TEST RESULTS SUMMARY ===
+
+--- Exercise 1 ---
+Ran 8 tests in 0.001s
+
+OK
+
+--- Exercise 2 ---
+Ran 7 tests in 0.000s
+
+OK
+
+--- Exercise 3 ---
+Ran 7 tests in 0.000s
+
+OK
+
+--- Exercise 4 ---
+Ran 8 tests in 0.001s
+
+OK
+
+--- Exercise 5 ---
+Ran 8 tests in 0.000s
+
+OK
+
+--- Exercise 6 ---
+Ran 7 tests in 0.000s
+
+OK
+
+--- Exercise 7 ---
+Ran 6 tests in 0.001s
+
+OK
+
+--- Exercise 8 ---
+Ran 7 tests in 0.001s
+
+OK
+
+--- Exercise 9 ---
+Ran 8 tests in 0.000s
+
+OK
+
+--- Exercise 10 ---
+Ran 8 tests in 0.000s
+
+OK
+

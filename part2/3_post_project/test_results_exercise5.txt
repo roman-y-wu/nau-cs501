@@ -1,0 +1,21 @@
+test_main_valid_input (test_exercise5.TestExercise5)
+Test main function with valid input. ... ok
+test_replace_range_with_message_empty_list (test_exercise5.TestExercise5)
+Test replace_range_with_message with empty list. ... ok
+test_replace_range_with_message_full_range (test_exercise5.TestExercise5)
+Test replace_range_with_message with full range. ... ok
+test_replace_range_with_message_invalid_index_m (test_exercise5.TestExercise5)
+Test replace_range_with_message with invalid index m. ... ok
+test_replace_range_with_message_invalid_index_n (test_exercise5.TestExercise5)
+Test replace_range_with_message with invalid index n. ... ok
+test_replace_range_with_message_n_greater_than_m (test_exercise5.TestExercise5)
+Test replace_range_with_message when n > m. ... ok
+test_replace_range_with_message_single_element (test_exercise5.TestExercise5)
+Test replace_range_with_message with single element range. ... ok
+test_replace_range_with_message_valid (test_exercise5.TestExercise5)
+Test replace_range_with_message with valid indices. ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK

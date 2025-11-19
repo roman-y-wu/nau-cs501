@@ -1,0 +1,19 @@
+test_double_values_empty (test_exercise3.TestExercise3)
+Test double_values with empty list. ... ok
+test_double_values_floats (test_exercise3.TestExercise3)
+Test double_values with float list. ... ok
+test_double_values_integers (test_exercise3.TestExercise3)
+Test double_values with integer list. ... ok
+test_double_values_mixed (test_exercise3.TestExercise3)
+Test double_values with mixed int/float list. ... ok
+test_double_values_negative (test_exercise3.TestExercise3)
+Test double_values with negative numbers. ... ok
+test_main_empty_input (test_exercise3.TestExercise3)
+Test main function with empty input. ... ok
+test_main_valid_input (test_exercise3.TestExercise3)
+Test main function with valid input. ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

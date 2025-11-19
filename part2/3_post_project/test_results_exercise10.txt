@@ -1,0 +1,21 @@
+test_add_country (test_exercise10.TestExercise10)
+Test add_country function. ... ok
+test_add_currency_key (test_exercise10.TestExercise10)
+Test add_currency_key function. ... ok
+test_add_currency_key_custom_default (test_exercise10.TestExercise10)
+Test add_currency_key with custom default value. ... ok
+test_add_currency_key_multiple_countries (test_exercise10.TestExercise10)
+Test add_currency_key with multiple countries. ... ok
+test_find_largest_population (test_exercise10.TestExercise10)
+Test find_largest_population function. ... ok
+test_find_largest_population_empty (test_exercise10.TestExercise10)
+Test find_largest_population with empty dictionary. ... ok
+test_find_largest_population_single_country (test_exercise10.TestExercise10)
+Test find_largest_population with single country. ... ok
+test_integration_all_functions (test_exercise10.TestExercise10)
+Test integration of all three functions. ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK

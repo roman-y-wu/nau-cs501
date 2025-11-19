@@ -1,0 +1,21 @@
+test_all_rows_same_size_empty (test_exercise9.TestExercise9)
+Test all_rows_same_size with empty matrix. ... ok
+test_all_rows_same_size_example_a (test_exercise9.TestExercise9)
+Test with example A from the code. ... ok
+test_all_rows_same_size_example_b (test_exercise9.TestExercise9)
+Test with example B from the code. ... ok
+test_all_rows_same_size_false (test_exercise9.TestExercise9)
+Test all_rows_same_size with different-sized rows. ... ok
+test_all_rows_same_size_mixed_types (test_exercise9.TestExercise9)
+Test all_rows_same_size with mixed types. ... ok
+test_all_rows_same_size_single_element_rows (test_exercise9.TestExercise9)
+Test all_rows_same_size with single-element rows. ... ok
+test_all_rows_same_size_single_row (test_exercise9.TestExercise9)
+Test all_rows_same_size with single row. ... ok
+test_all_rows_same_size_true (test_exercise9.TestExercise9)
+Test all_rows_same_size with same-sized rows. ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK

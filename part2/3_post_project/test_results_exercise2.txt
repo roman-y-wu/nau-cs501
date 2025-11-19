@@ -1,0 +1,19 @@
+test_check_data_invalid_population_a_too_large (test_exercise2.TestExercise2)
+Test check_data when population A >= population B. ... ok
+test_check_data_invalid_population_zero (test_exercise2.TestExercise2)
+Test check_data with zero population. ... ok
+test_check_data_invalid_rate_a_too_small (test_exercise2.TestExercise2)
+Test check_data when rate A <= rate B. ... ok
+test_check_data_invalid_rate_zero (test_exercise2.TestExercise2)
+Test check_data with zero growth rate. ... ok
+test_check_data_valid (test_exercise2.TestExercise2)
+Test check_data with valid inputs. ... ok
+test_get_growth (test_exercise2.TestExercise2)
+Test get_growth function. ... ok
+test_main_valid_input (test_exercise2.TestExercise2)
+Test main function with valid inputs. ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

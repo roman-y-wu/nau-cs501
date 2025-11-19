@@ -1,0 +1,17 @@
+test_main_average_calculation (test_exercise7.TestExercise7)
+Test main function average calculation. ... ok
+test_main_done_uppercase (test_exercise7.TestExercise7)
+Test main function with uppercase DONE. ... ok
+test_main_invalid_inputs (test_exercise7.TestExercise7)
+Test main function with invalid inputs. ... ok
+test_main_negative_integers (test_exercise7.TestExercise7)
+Test main function with negative integers. ... ok
+test_main_no_numbers (test_exercise7.TestExercise7)
+Test main function with no numbers entered. ... ok
+test_main_valid_integers (test_exercise7.TestExercise7)
+Test main function with valid integers. ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK

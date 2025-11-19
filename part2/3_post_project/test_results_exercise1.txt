@@ -1,0 +1,21 @@
+test_get_area (test_exercise1.TestExercise1)
+Test get_area function with various inputs. ... ok
+test_get_positive_float_invalid_then_valid (test_exercise1.TestExercise1)
+Test get_positive_float with invalid inputs then valid. ... ok
+test_get_positive_float_valid (test_exercise1.TestExercise1)
+Test get_positive_float with valid input. ... ok
+test_get_yes_no_invalid_then_valid (test_exercise1.TestExercise1)
+Test get_yes_no with invalid inputs then valid. ... ok
+test_get_yes_no_no (test_exercise1.TestExercise1)
+Test get_yes_no with 'N'. ... ok
+test_get_yes_no_yes (test_exercise1.TestExercise1)
+Test get_yes_no with 'Y'. ... ok
+test_main_multiple_rooms (test_exercise1.TestExercise1)
+Test main function with multiple rooms. ... ok
+test_main_single_room (test_exercise1.TestExercise1)
+Test main function with a single room. ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
