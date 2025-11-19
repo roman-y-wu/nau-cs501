@@ -1,0 +1,6 @@
+Enter salesperson's basic salary: Enter total sales for the month: 
+Basic salary: $3000.00
+Total sales: $50000.00
+Commission rate: 8.0%
+Commission amount: $4000.00
+Total salary: $7000.00

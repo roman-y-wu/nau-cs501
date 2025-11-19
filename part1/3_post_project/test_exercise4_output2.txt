@@ -1,0 +1,5 @@
+Enter first exam score (0-100): Enter second exam score (0-100): Enter third exam score (0-100): 
+First exam score: 100.00
+Second exam score: 95.50
+Third exam score: 88.00
+Final grade (average): 94.50

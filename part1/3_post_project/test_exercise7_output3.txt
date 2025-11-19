@@ -1,0 +1,5 @@
+Enter first score (0-100): Enter second score (0-100): 
+First score: 45.00
+Second score: 50.00
+Average score: 47.50
+Grade: D

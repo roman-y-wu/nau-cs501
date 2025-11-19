@@ -1,0 +1,1 @@
+Enter first score (0-100): Error: Score must be between 0 and 100.

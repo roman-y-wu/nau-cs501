@@ -1,0 +1,5 @@
+Enter product unit price: Enter purchase quantity: Enter discount percentage (e.g., 10 for 10%): 
+Total amount before discount: $129.95
+Discount percentage: 15.0%
+Discount amount: $19.49
+Final amount to pay: $110.46

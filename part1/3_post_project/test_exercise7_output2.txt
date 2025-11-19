@@ -1,0 +1,6 @@
+Enter first score (0-100): Enter second score (0-100): 
+First score: 25.00
+Second score: 30.00
+Average score: 27.50
+Grade: F
+Status: Failed

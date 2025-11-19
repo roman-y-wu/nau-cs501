@@ -1,0 +1,7 @@
+Enter first integer: Enter second integer: 
+First number: 20
+Second number: 0
+Sum: 20
+Difference: 20
+Product: 0
+Quotient: Error! Divisor cannot be zero

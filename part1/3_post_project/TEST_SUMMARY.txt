@@ -1,0 +1,168 @@
+TEST SUMMARY
+============
+
+This document summarizes all test cases created for the exercises.
+
+EXERCISE 1: Store Discount Calculation
+--------------------------------------
+Test 1:
+  Input: test_exercise1_input.txt
+    - Product unit price: 25.99
+    - Quantity: 5
+    - Discount: 15%
+  Output: test_exercise1_output.txt
+    - Total before discount: $129.95
+    - Discount amount: $19.49
+    - Final amount: $110.46
+
+Test 2:
+  Input: test_exercise1_input2.txt
+    - Product unit price: 100.00
+    - Quantity: 10
+    - Discount: 20%
+  Output: test_exercise1_output2.txt
+    - Total before discount: $1000.00
+    - Discount amount: $200.00
+    - Final amount: $800.00
+
+EXERCISE 2: Basic Arithmetic Operations
+----------------------------------------
+Test 1:
+  Input: test_exercise2_input.txt
+    - First integer: 15
+    - Second integer: 3
+  Output: test_exercise2_output.txt
+    - Sum: 18
+    - Difference: 12
+    - Product: 45
+    - Quotient: 5.00
+
+Test 2 (Edge Case - Division by Zero):
+  Input: test_exercise2_input2.txt
+    - First integer: 20
+    - Second integer: 0
+  Output: test_exercise2_output2.txt
+    - Sum: 20
+    - Difference: 20
+    - Product: 0
+    - Quotient: Error! Divisor cannot be zero
+
+EXERCISE 3: Salesperson Salary Calculation
+-------------------------------------------
+Test 1:
+  Input: test_exercise3_input.txt
+    - Basic salary: $3000.00
+    - Total sales: $50000.00
+  Output: test_exercise3_output.txt
+    - Commission (8%): $4000.00
+    - Total salary: $7000.00
+
+Test 2:
+  Input: test_exercise3_input2.txt
+    - Basic salary: $2500.00
+    - Total sales: $75000.00
+  Output: test_exercise3_output2.txt
+    - Commission (8%): $6000.00
+    - Total salary: $8500.00
+
+EXERCISE 4: Student Grade Calculation
+--------------------------------------
+Test 1:
+  Input: test_exercise4_input.txt
+    - Score 1: 85.5
+    - Score 2: 92.0
+    - Score 3: 78.5
+  Output: test_exercise4_output.txt
+    - Final grade (average): 85.33
+
+Test 2:
+  Input: test_exercise4_input2.txt
+    - Score 1: 100.0
+    - Score 2: 95.5
+    - Score 3: 88.0
+  Output: test_exercise4_output2.txt
+    - Final grade (average): 94.50
+
+EXERCISE 5: Savings Account Interest Calculation
+-------------------------------------------------
+Test 1:
+  Input: test_exercise5_input.txt
+    - Current balance: $10000.00
+  Output: test_exercise5_output.txt
+    - Interest earned (0.7%): $70.00
+    - Balance after one month: $10070.00
+
+Test 2:
+  Input: test_exercise5_input2.txt
+    - Current balance: $5000.00
+  Output: test_exercise5_output2.txt
+    - Interest earned (0.7%): $35.00
+    - Balance after one month: $5035.00
+
+EXERCISE 6: Currency Conversion
+--------------------------------
+Test 1 (GBP to USD):
+  Input: test_exercise6_input.txt
+    - Amount: 100
+    - Currency: 1 (GBP)
+  Output: test_exercise6_output.txt
+    - Original: £100.00 (British Pounds)
+    - Converted: $114.94 (US Dollars)
+    - Exchange rate: 1 GBP = 1.1494 USD
+
+Test 2 (USD to GBP):
+  Input: test_exercise6_input2.txt
+    - Amount: 150
+    - Currency: 2 (USD)
+  Output: test_exercise6_output2.txt
+    - Original: $150.00 (US Dollars)
+    - Converted: £130.50 (British Pounds)
+    - Exchange rate: 1 USD = 0.87 GBP
+
+Test 3 (Invalid Choice):
+  Input: test_exercise6_input3.txt
+    - Amount: 200
+    - Currency: 3 (Invalid)
+  Output: test_exercise6_output3.txt
+    - Error: Invalid choice. Please enter 1 or 2.
+
+EXERCISE 7: University Grading System
+--------------------------------------
+Test 1 (Grade A):
+  Input: test_exercise7_input.txt
+    - Score 1: 85.0
+    - Score 2: 90.0
+  Output: test_exercise7_output.txt
+    - Average score: 87.50
+    - Grade: A
+
+Test 2 (Grade F - Failed):
+  Input: test_exercise7_input2.txt
+    - Score 1: 25.0
+    - Score 2: 30.0
+  Output: test_exercise7_output2.txt
+    - Average score: 27.50
+    - Grade: F
+    - Status: Failed
+
+Test 3 (Grade D):
+  Input: test_exercise7_input3.txt
+    - Score 1: 45.0
+    - Score 2: 50.0
+  Output: test_exercise7_output3.txt
+    - Average score: 47.50
+    - Grade: D
+
+Test 4 (Invalid Score - Out of Range):
+  Input: test_exercise7_input4.txt
+    - Score 1: 105.0
+    - Score 2: 95.0
+  Output: test_exercise7_output4.txt
+    - Error: Score must be between 0 and 100.
+
+TOTAL TEST FILES CREATED
+========================
+- Input files: 17
+- Output files: 17
+- Total: 34 test files
+

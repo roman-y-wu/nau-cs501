@@ -1,0 +1,7 @@
+Enter amount to convert: Enter original currency type:
+1. British Pounds (GBP)
+2. US Dollars (USD)
+Enter choice (1 or 2): 
+Original amount: $150.00 (US Dollars)
+Converted amount: £130.50 (British Pounds)
+Exchange rate: 1 USD = 0.87 GBP

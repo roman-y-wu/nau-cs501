@@ -1,0 +1,5 @@
+Enter current balance of your savings account: 
+Current balance: $5000.00
+Monthly interest rate: 0.7000000000000001%
+Interest earned: $35.00
+Balance after one month: $5035.00
